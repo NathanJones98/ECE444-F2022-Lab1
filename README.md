@@ -9,7 +9,8 @@ Nathan Jones
 ![](images/Activity2.png)
 
 # Activity 3
-
+![](images/Activity3.png)
+![](images/Activity32.png)
 
 # Activity 4
 
