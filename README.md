@@ -21,6 +21,7 @@ Nathan Jones
 
 # Activity 5
 This is the rebase branch
+This is rebase commit 2
 
 # Activity 6
 
