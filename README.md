@@ -14,15 +14,15 @@ Nathan Jones
 
 # Activity 4
 Link to partner: https://github.com/tonekaboni/ECE444-F2022-Lab1.git
-![](images/helloworld.png.png)
-![](images/Nathancommit.png.png)
+![](images/helloworld.png)
+![](images/Nathancommit.png)
 ![](images/NathanPull.png)
 ![](images/Sadra_commit.png)
 ![](images/Sadra_push.png)
 
 # Activity 5
 This is the rebase branch
-![](images/Activity3.png)
+![](images/Activity5.png)
 
 # Activity 6
 
