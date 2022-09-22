@@ -31,6 +31,8 @@ The link to my EP repo is:
 https://github.com/NathanJones98/ECE444-F2022-EP-.git
 
 # Activity 7
+![](images/Activity7.png)
+![](images/Activity72.png)
 
 
 # Activity 8
