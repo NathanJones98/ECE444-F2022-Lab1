@@ -21,12 +21,20 @@ Link to partner: https://github.com/tonekaboni/ECE444-F2022-Lab1.git
 ![](images/Sadra_push.png)
 
 # Activity 5
-This is the rebase branch
+The link to my partners repo:
+https://github.com/tonekaboni/ECE444-F2022-Lab1.git
+
 ![](images/Activity5.png)
 
 # Activity 6
-
+The link to my EP repo is:
+https://github.com/NathanJones98/ECE444-F2022-EP-.git
 
 # Activity 7
 
 
+# Activity 8
+
+
+
+# Activity  9
