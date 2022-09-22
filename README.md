@@ -13,7 +13,11 @@ Nathan Jones
 ![](images/Activity32.png)
 
 # Activity 4
-
+![](images/helloworld.png.png)
+![](images/Nathancommit.png.png)
+![](images/NathanPull.png)
+![](images/Sadra_commit.png)
+![](images/Sadra_push.png)
 
 # Activity 5
 
