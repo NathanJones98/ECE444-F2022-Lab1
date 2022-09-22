@@ -34,8 +34,9 @@ https://github.com/NathanJones98/ECE444-F2022-EP-.git
 ![](images/Activity7.png)
 ![](images/Activity72.png)
 
-
 # Activity 8
+![](images/Activity8.png)
+![](images/Activity82.png)
 
 
 
