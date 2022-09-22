@@ -13,6 +13,7 @@ Nathan Jones
 ![](images/Activity32.png)
 
 # Activity 4
+Link to partner: https://github.com/tonekaboni/ECE444-F2022-Lab1.git
 ![](images/helloworld.png.png)
 ![](images/Nathancommit.png.png)
 ![](images/NathanPull.png)
